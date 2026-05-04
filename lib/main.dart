@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// Asegúrate de que esta ruta coincida con la ubicación de tu archivo home_page.dart
 import 'package:lol_app/screens/home_page.dart'; 
 
 void main() {
