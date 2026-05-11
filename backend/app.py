@@ -6,7 +6,7 @@ import traceback
 
 app = Flask(__name__)
 CORS(app)
-
+# Riot API Integration.
 RIOT_API_KEY = ''
 HEADERS = {"X-Riot-Token": RIOT_API_KEY}
 
